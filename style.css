@@ -1,0 +1,72 @@
+/* STYLE SECTIONING TAGS */
+body {
+  text-align: center;
+  font-family: "lucida sans unicode",Sans-Serif;
+  background-color: #FEC89A;
+}
+
+main {
+  text-align: center;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-right: 0%;
+  margin-left: 0%;
+}
+
+/* STYLE TEXT */
+
+h1 {
+  text-align: center;
+  background-color: #FFE5D9;
+  color: #F68080;
+  letter-spacing: 7px;
+  border-radius: 5%;
+  border: 3px solid #F68080;
+}
+
+p {
+  text-align: left;
+  background-color: #FFE5D9;
+  color: #F68080;
+  border-radius: 5%;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border: 3px solid #F68080;
+}
+
+#AboutMe {
+  text-align: left;
+}
+
+ul {
+  list-style: none;
+  text-aligh: center;
+  border-radius: 5%;
+}
+
+li {
+  display: inline;
+  padding: 1em;
+}
+
+/* STYLE IMAGES */
+img {
+  border-radius: 15%;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.Image {
+  border: 0px
+}
+
+/* STYLE NAV BAR */
+nav {
+  background-color: #FFE5D9;
+  border-radius: 5%;
+  border: 3px solid #F68080;
+    }
